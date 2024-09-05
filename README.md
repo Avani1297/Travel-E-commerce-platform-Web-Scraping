@@ -1,4 +1,4 @@
-# Travel-E-commerce-platform-Web-Sraping
+# Travel-E-commerce-platform-Web-Scraping
 ## Overview
 This project focuses on developing a comprehensive go-to-market strategy for a travel product e-commerce company planning to enter the U.S. market. Utilizing an extensive dataset of 884 travel products sourced from "Get Your Guide," this project offers strategic insights into competitive positioning, product focus, geographic strategy, supplier partnerships, and pricing mechanisms. The goal is to leverage structured data to inform strategic decisions and facilitate the company's successful entry into the competitive U.S. travel market.
 
